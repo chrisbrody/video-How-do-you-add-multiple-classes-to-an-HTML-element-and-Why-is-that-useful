@@ -1,0 +1,18 @@
+.text-center {
+  text-align: center;
+}
+
+.btn {
+  font-size: 24px;
+  padding: 10px 15px;
+  color: white;
+  text-decoration: none;
+}
+
+.btn-danger {
+  background-color: red;
+}
+
+.btn-success {
+  background-color: green;
+}

@@ -1,0 +1,42 @@
+#MUTLIPLE_CLASSES 1.1 - Intro to multiple CSS classes
+#MUTLIPLE_CLASSES 1.2 - Why use multiple CSS classes
+#MUTLIPLE_CLASSES 1.3 - How to use multiple CSS classes
+#MUTLIPLE_CLASSES 1.4 - Outro to multiple CSS classes
+
+
+
+
+#MUTLIPLE_CLASSES 1.1 - Intro to multiple CSS classes
+Hey Chris from Codify Academy here, in this video I want to explore what happens when we add two or more classes to an element.
+
+
+#MUTLIPLE_CLASSES 1.2 - Why use multiple CSS classes
+Elements in HTML can have an unlimited number of class attribute values,
+as long as each value is separated by a space.
+
+We can added styles that we use regularly to a class and layer on additional styles from other classes.
+
+
+#MUTLIPLE_CLASSES 1.3 - How to use multiple CSS classes
+I almost always create a class of .text-center and set the text-align property to center. and I want to center an element I can add the class of text-center to it.
+
+Lets look at these buttons for another example.
+
+Let's assume we want all of our buttons to have a font size of 16 pixels, we can create a class to apply that to our buttons.
+
+and we'll also add some padding.
+
+Here you can see the two anchor elements, both with multiple class attribute values. The first class, btn, is used to apply a font size and padding to the elements.
+
+Then, the first anchor element with the additional class of btn-danger has a red background color applied while the second anchor element with the additional class of btn-success has  a green background color applied.
+
+this will allow you reuse some of your code and make it easier to read.
+
+
+
+
+
+#MUTLIPLE_CLASSES 1.4 - Outro to multiple CSS classes
+By using multiple classes, we can layer on as many styles on an element as we want, this will keep our code lean and the specificity weights low.
+
+Just like understanding the cascade and calculating specificity, this is a practice that will take time to fully absorb, but you'll get better with each line you write.
